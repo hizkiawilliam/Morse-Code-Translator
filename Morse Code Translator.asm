@@ -1,11 +1,7 @@
 ;====================================================================================================
 ;@2019                                                                                              |
-;AUTHOR     : -HIZKIA WILLIAM EBEN                                                                  |
-;             -LUTHFI RAHMAN HARDI                                                                  |
-;             -MARINUS MARTIN                                                                       |
-;             -MUHAMMAD SULTON                                                                      |
-;KELOMPOK   : 1                                                                                     |
-;TEMA       : MORSE CODE TRANSLATOR/PENERJEMAH KODE MORSE                                           |
+;AUTHOR     : HIZKIA WILLIAM EBEN                                                                  |
+;PROGRAM    : MORSE CODE TRANSLATOR/PENERJEMAH KODE MORSE                                           |
 ;---------------------------------------------------------------------------------------------------|
 ;SKENARIO   :   1. USER DAPAT MEMILIH INGIN MENGENCODE ATAU MENDECODE KODE MORSE                    |
 ;                  USER CAN CHOOSE TO ENCODE OR DECODE MORSE CODE                                   |
@@ -17,7 +13,7 @@
 ;        MORSE CODE TRANSLATOR is a program to help user translate morse code to string             |
 ;                                   or string to morse code                                         |
 ;                                                                                                   |
-;    Copyright (C) 2019 HIZKIA WILLIAM EBEN, LUTHFI RAHMAN HARDI, MARINUS MARTIN, MUHAMMAD SULTON   |
+;    Copyright (C) 2019 HIZKIA WILLIAM EBEN   |
 ;                                                                                                   |
 ;               This program is free software: you can redistribute it and/or modify                |
 ;               it under the terms of the GNU General Public License as published by                |
