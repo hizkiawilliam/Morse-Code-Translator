@@ -13,7 +13,7 @@
 ;        MORSE CODE TRANSLATOR is a program to help user translate morse code to string             |
 ;                                   or string to morse code                                         |
 ;                                                                                                   |
-;    Copyright (C) 2019 HIZKIA WILLIAM EBEN   |
+;    Copyright (C) 2019 HIZKIA WILLIAM EBEN 														|
 ;                                                                                                   |
 ;               This program is free software: you can redistribute it and/or modify                |
 ;               it under the terms of the GNU General Public License as published by                |
