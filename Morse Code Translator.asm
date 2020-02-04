@@ -1,6 +1,6 @@
 ;====================================================================================================
 ;@2019                                                                                              |
-;AUTHOR     : HIZKIA WILLIAM EBEN                                                                  |
+;AUTHOR     : HIZKIA WILLIAM EBEN                                                                   |
 ;PROGRAM    : MORSE CODE TRANSLATOR/PENERJEMAH KODE MORSE                                           |
 ;---------------------------------------------------------------------------------------------------|
 ;SKENARIO   :   1. USER DAPAT MEMILIH INGIN MENGENCODE ATAU MENDECODE KODE MORSE                    |
